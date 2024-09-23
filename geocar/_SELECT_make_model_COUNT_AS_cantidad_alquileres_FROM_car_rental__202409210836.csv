@@ -1,0 +1,505 @@
+"make","model","cantidad_alquileres"
+Tesla,Model 3,576
+Ford,Mustang,272
+Tesla,Model S,244
+Jeep,Wrangler,216
+Tesla,Model X,206
+Toyota,Corolla,156
+Mercedes-Benz,C-Class,156
+BMW,"3 Series",152
+Chevrolet,Corvette,136
+Chevrolet,Camaro,122
+Dodge,Grand Caravan,120
+Toyota,Prius,116
+Hyundai,Sonata,96
+Toyota,Camry,94
+Mercedes-Benz,E-Class,94
+Honda,Odyssey,90
+Toyota,Sienna,88
+Nissan,Altima,88
+Nissan,Versa,86
+Volkswagen,Jetta,86
+Maserati,Ghibli,86
+Honda,Civic,84
+Nissan,Rogue,84
+Toyota,Yaris,82
+BMW,"4 Series",78
+Polaris,Slingshot,76
+Dodge,Challenger,76
+Hyundai,Elantra,76
+Ford,F-150,74
+Nissan,Sentra,72
+Porsche,Boxster,72
+Porsche,"911",70
+Honda,Accord,70
+Toyota,RAV4,70
+Subaru,Outback,66
+BMW,"5 Series",66
+BMW,X5,64
+Jeep,Wrangler Unlimited,64
+Ford,Fusion,62
+Kia,Soul,62
+Jaguar,F-TYPE,60
+Land Rover,Range Rover Sport,58
+Ford,Focus,58
+BMW,i8,56
+Kia,Optima,54
+Ford,Escape,52
+Toyota,"4Runner",52
+Honda,CR-V,52
+Mercedes-Benz,S-Class,50
+Chevrolet,Suburban,50
+Chevrolet,Cruze,50
+Porsche,Cayenne,50
+Jeep,Grand Cherokee,48
+Toyota,Tacoma,46
+Ford,Explorer,46
+Porsche,Macan,46
+Toyota,Highlander,44
+Chevrolet,Equinox,44
+Audi,A4,44
+Ford,Fiesta,44
+BMW,M4,44
+Kia,Sedona,44
+FIAT,"500",42
+Mercedes-Benz,CLA-Class,40
+Hyundai,Accent,40
+BMW,Z4,38
+Volkswagen,Passat,38
+Jeep,Cherokee,38
+Dodge,Charger,34
+GMC,Yukon XL,34
+Honda,Pilot,34
+Kia,Forte,34
+Audi,Q7,34
+Porsche,Panamera,34
+Chevrolet,Corvette Stingray,32
+BMW,X1,32
+Mazda,"3",32
+Acura,MDX,32
+Land Rover,Range Rover,32
+Audi,Q5,32
+Porsche,"718 Boxster",32
+Mercedes-Benz,G-Class,30
+BMW,"2 Series",30
+Tesla,Model Y,30
+smart,fortwo,28
+Toyota,Tundra,28
+Hyundai,Tucson,28
+Nissan,Pathfinder,28
+Chevrolet,Express,28
+Chevrolet,Malibu,28
+Chevrolet,Spark,28
+Subaru,Forester,28
+Jeep,Patriot,26
+Mercedes-benz,C-Class,26
+Mercedes-Benz,SLK-Class,26
+Mercedes-Benz,M-Class,26
+Mercedes-Benz,GL-Class,26
+MINI,Cooper,26
+Lexus,RX 350,26
+BMW,X3,26
+Audi,A3,26
+Mazda,CX-5,24
+Jeep,Wrangler JK,24
+Porsche,Cayman,24
+Honda,Civic Sedan,24
+Jeep,Renegade,24
+Dodge,Durango,24
+Chrysler,Pacifica,24
+Chevrolet,Sonic,22
+Land Rover,Range Rover Velar,22
+Kia,Sorento,22
+BMW,"7 Series",22
+Volkswagen,Tiguan,22
+Chevrolet,Tahoe,22
+Chevrolet,Volt,22
+Toyota,Prius c,22
+GMC,Acadia,22
+Jeep,Gladiator,22
+Chevrolet,Traverse,20
+Mazda,MX-5 Miata,20
+Toyota,C-HR,20
+BMW,"6 Series",20
+Audi,Q3,20
+Ford,Expedition,20
+Chrysler,Town and Country,20
+Land Rover,Range Rover Evoque,20
+Mercedes-Benz,GLC-Class,20
+Chevrolet,Impala,18
+Mitsubishi,Mirage,18
+Lexus,CT 200h,18
+Lexus,ES 350,18
+Honda,Accord Sedan,18
+Lexus,IS 250,18
+Chrysler,"300",18
+Chevrolet,Bolt EV,18
+Chrysler,"200",18
+Chevrolet,Silverado 1500,18
+Ram,"1500",16
+Honda,Insight,16
+GMC,Terrain,16
+FIAT,"124 Spider",16
+BMW,M3,16
+Mitsubishi,Outlander,16
+Dodge,Journey,16
+Mazda,"6",16
+Audi,R8,16
+Audi,A6,16
+Alfa Romeo,Stelvio,16
+Infiniti,QX60,16
+Lamborghini,Huracan,16
+Nissan,Armada,14
+Audi,S5,14
+Jeep,Compass,14
+Nissan,Rogue Sport,14
+Acura,TSX,14
+Acura,TLX,14
+Cadillac,Escalade ESV,14
+Kia,Rio,14
+Dodge,Ram 1500,14
+Lexus,GX 460,14
+Toyota,Prius Prime,14
+Nissan,Murano,14
+Ford,Transit Wagon,14
+Toyota,FJ Cruiser,14
+Honda,Fit,14
+Jaguar,F-PACE,14
+Audi,A7,14
+BMW,"4 Series Gran Coupe",12
+Mercedes-Benz,GLA-Class,12
+Volvo,XC60,12
+Maserati,Quattroporte,12
+BMW,i3,12
+BMW,X6,12
+Subaru,Impreza,12
+MINI,Cooper Countryman,12
+Alfa Romeo,"4C",12
+Toyota,Supra,12
+Ford,Edge,12
+BMW,I8,12
+BMW,"3-Series",12
+Chevrolet,Trax,12
+Ford,Fusion Energi,12
+Ford,Transit Van,12
+BMW,"1 Series",12
+Buick,Enclave,12
+GMC,Sierra 1500,12
+Mercedes-benz,GLE-Class,12
+Nissan,Frontier,12
+Nissan,Xterra,12
+BMW,"4-Series",12
+Hyundai,Santa Fe,12
+Infiniti,Q50,12
+Volkswagen,Eos,12
+Volkswagen,Atlas,12
+Mercedes-Benz,GLE-Class,10
+Volkswagen,Beetle,10
+BMW,"7-Series",10
+Maserati,Levante,10
+GMC,Yukon,10
+Alfa Romeo,Giulia,10
+BMW,X4,10
+Dodge,Dart,10
+Mercedes-benz,GLC-Class,10
+Subaru,Legacy,10
+Cadillac,ATS,10
+Audi,SQ5,10
+Acura,RDX,10
+Lexus,ES 300h,10
+Nissan,Leaf,10
+Volkswagen,Touareg,10
+Volkswagen,Golf,10
+Toyota,Camry Hybrid,10
+Subaru,WRX,10
+Kia,Sportage,10
+Lexus,HS 250h,10
+Ford,Fusion Hybrid,10
+Toyota,Avalon,10
+Audi,A5,10
+Mercedes-Benz,AMG GT,10
+Nissan,Versa Note,8
+Nissan,Maxima,8
+Nissan,GT-R,8
+Mercedes-benz,Sprinter,8
+Mercedes-Benz,Sprinter,8
+Mercedes-Benz,Metris,8
+Mercedes-Benz,GLK-Class,8
+Mercedes-Benz,CLS-Class,8
+Mazda,CX-9,8
+Lincoln,Navigator,8
+Lexus,NX 200t,8
+Land Rover,LR4,8
+Land Rover,Discovery Sport,8
+Kia,Telluride,8
+Kia,Stinger,8
+Subaru,Crosstrek,8
+Jaguar,XJ,8
+Jaguar,XF,8
+INFINITI,Q50,8
+Hyundai,Santa Fe Sport,8
+Hyundai,Genesis,8
+Honda,Clarity,8
+Toyota,Prius v,8
+Toyota,Sequoia,8
+Ford,C-Max Hybrid,8
+Ferrari,California,8
+Toyota,Yaris iA,8
+Dodge,Avenger,8
+Chrysler,Sebring,8
+Chevrolet,Cruze Limited,8
+Chevrolet,Colorado,8
+Volkswagen,Golf GTI,8
+Cadillac,Escalade,8
+Cadillac,CTS,8
+Buick,Encore,8
+Volvo,XC90,8
+BMW,M-Series,8
+Audi,S4,8
+Acura,ILX,8
+Alfa-romeo,Stelvio,8
+Alfa-romeo,Giulia,8
+Hyundai,Genesis G70,6
+Honda,Ridgeline,6
+Lexus,NX 300,6
+Chevrolet,Aveo,6
+Cadillac,XTS,6
+Subaru,XV Crosstrek,6
+Toyota,RAV4 Hybrid,6
+Mercedes-Benz,SL-Class,6
+Kia,Rio 5-Door,6
+Toyota,Camry Solara,6
+Mazda,MX-5 Miata RF,6
+Ram,"3500",6
+Lexus,LC 500,6
+Lamborghini,Gallardo,6
+Nissan,Quest,6
+Dodge,Caliber,6
+Lexus,IS 200t,6
+Mercedes-benz,CLA-Class,6
+Jaguar,F-Type,6
+Infiniti,JX,6
+Ford,Flex,6
+Buick,LaCrosse,6
+Mercedes-benz,G-Class,6
+Lincoln,MKZ,6
+Mercedes-benz,GLS-Class,6
+Porsche,"718 Cayman",6
+Infiniti,QX50,6
+Toyota,Corolla iM,6
+Kia,Cadenza,6
+Scion,xD,6
+Mitsubishi,Outlander Sport,6
+Hyundai,Ioniq Hybrid,6
+FIAT,"500L",6
+Mazda,"2",6
+Scion,FR-S,4
+Lexus,IS 250 C,4
+Infiniti,G Sedan,4
+Ford,Shelby GT350,4
+Nissan,Cube,4
+Pontiac,G6,4
+Audi,RS 5,4
+Mazda,MAZDA2,4
+INFINITI,QX60,4
+Audi,Q8,4
+Land Rover,Discovery,4
+Chevrolet,Silverado 2500HD,4
+Land Rover,LR2,4
+Subaru,Ascent,4
+Scion,xB,4
+Volvo,V60,4
+Kia,Niro,4
+Mazda,Mazda3,4
+Jaguar,XE,4
+Lexus,GX,4
+Honda,HR-V,4
+Hyundai,Veloster,4
+Chevrolet,HHR,4
+Volkswagen,CC,4
+Lexus,RC 350,4
+Audi,A5 Sportback,4
+Mercedes-Benz,CL-Class,4
+Honda,Element,4
+Ram,"2500",4
+Toyota,Avalon Hybrid,4
+Cadillac,XT5,4
+Audi,A8,4
+Cadillac,SRX,4
+Lotus,Evora,4
+Ford,EcoSport,4
+Rolls Royce,Ghost,4
+Buick,Regal,4
+Ferrari,F430,4
+Ferrari,"488GTB",4
+Acura,NSX,4
+Honda,Accord Hybrid,4
+Bentley,Continental GT,4
+BMW,X7,4
+MINI,Clubman,4
+HUMMER,H2,4
+Nissan,Juke,4
+Dodge,Ram 1500 Classic,4
+Toyota,Highlander Hybrid,4
+Lexus,IS 350,4
+Lexus,RX 450h,4
+Toyota,"86",4
+Hyundai,Elantra GT,4
+Aston Martin,V8 Vantage,4
+GMC,Savana,4
+GMC,Canyon,4
+Pontiac,Solstice,4
+Lincoln,Continental,4
+Mercedes-benz,E-Class,4
+MINI,Hardtop 2dr,4
+BMW,"5-Series",4
+Mercury,Mariner,4
+Lincoln,MKC,4
+Lincoln,MKS,4
+Mitsubishi,Lancer,4
+BMW,"3 Series Gran Turismo",4
+Volvo,S60,4
+Maserati,GranTurismo,4
+Volvo,S90,4
+Audi,allroad,4
+Jaguar,XK-Series,2
+Volvo,XC40,2
+Infiniti,QX80,2
+Lexus,IS 300,2
+Infiniti,QX,2
+Infiniti,M35,2
+Infiniti,G37,2
+Infiniti,EX35,2
+Audi,A8 L,2
+Lexus,IS 350 C,2
+Hyundai,Kona,2
+Hyundai,Equus,2
+Hyundai,Elantra Touring,2
+Lexus,LS 460,2
+Hyundai,Azera,2
+Lexus,LX 570,2
+Honda,S2000,2
+Honda,Passport,2
+Toyota,Corolla Hatchback,2
+Lexus,RC 200t,2
+Honda,Crosstour,2
+Nissan,NV200,2
+Lexus,RX,2
+Honda,Civic Hatch,2
+Toyota,Corolla Hybrid,2
+Lexus,RX 350L,2
+HUMMER,H3,2
+Genesis,G80,2
+Lexus,RX 400h,2
+GMC,Sierra 3500HD,2
+Lexus,Ux,2
+Ford,mustang,2
+Ford,Transit Connect,2
+Ford,Taurus,2
+Ford,Shelby Cobra,2
+Ford,Shelby AC Cobra,2
+Toyota,Land Cruiser,2
+Lincoln,MKX,2
+Toyota,Matrix,2
+Ford,Freestyle,2
+Ford,Focus RS,2
+Lincoln,Navigator L,2
+Lincoln,Town Car,2
+Ford,F-450 Super Duty,2
+Ford,Explorer Sport Trac,2
+Ford,Expedition MAX,2
+Lotus,Evora 400,2
+Ford,C-Max,2
+Ferrari,"488 Spider",2
+Ferrari,"488 Gtb",2
+Ferrari,"458 Spider",2
+FIAT,"500e",2
+Lotus,Exige,2
+Dodge,Viper,2
+Dodge,Ram 3500,2
+MINI,Cooper Clubman,2
+MINI,Cooper Coupe,2
+Toyota,Venza,2
+MINI,Cooper Roadster,2
+MINI,Hardtop 2 Door,2
+Toyota,camry,2
+Dodge,Caravan,2
+Aston Martin,V12 Vantage S,2
+Chrysler,Voyager,2
+Aston Martin,DB9,2
+Scion,iM,2
+Chevrolet,Uplander,2
+Mazda,"5",2
+Mazda,CX-7,2
+Chevrolet,TrailBlazer,2
+Chevrolet,Tahoe Hybrid,2
+Volkswagen,Arteon,2
+Mazda,MAZDA5,2
+Chevrolet,Silverado 1500 Hybrid,2
+Chevrolet,Malibu Limited,2
+Mazda,Mazda6,2
+Chevrolet,Impala Limited,2
+McLaren,"570S",2
+Volkswagen,E-Golf,2
+Nissan,Titan XD,2
+Saturn,Sky,2
+Volkswagen,GTI,2
+Saturn,ION,2
+Cadillac,XT4,2
+Cadillac,STS,2
+Saab,"3-Sep",2
+Nissan,Titan,2
+Cadillac,CTS Coupe,2
+Porsche,"718",2
+Cadillac,ATS Coupe,2
+Buick,Verano,2
+Porsche,"356",2
+Acura,TL,2
+Bentley,Flying Spur,2
+Bentley,Continental Supersports,2
+Bentley,Continental GTC,2
+Bentley,Continental GT Speed,2
+Volkswagen,Jetta Hybrid,2
+Mercedes-Benz,GLS-Class,2
+Volkswagen,New Beetle,2
+BMW,X6 M,2
+Ram,Promaster Cargo Van,2
+BMW,X5 eDrive,2
+BMW,X5 M,2
+Volkswagen,Rabbit,2
+Pontiac,Vibe,2
+BMW,X2,2
+Volkswagen,Routan,2
+BMW,M6 Gran Coupe,2
+BMW,M6,2
+BMW,M5,2
+Mercedes-Benz,SLC-Class,2
+Mercedes-benz,AMG GT,2
+BMW,I3,2
+Mercedes-benz,CLS-Class,2
+BMW,"6 Series Gran Coupe",2
+Mitsubishi,Eclipse Spyder,2
+Volkswagen,Touareg 2,2
+BMW,"2-Series",2
+Mitsubishi,Mirage G4,2
+Audi,TTS,2
+Audi,TT RS,2
+Audi,TT,2
+Audi,S6,2
+Nissan,"370Z",2
+Audi,RS 7,2
+Audi,RS 3,2
+Lamborghini,Urus,2
+Ram,CV Tradesman,2
+Kia,Spectra,2
+Kia,Soul EV,2
+Scion,tC,2
+Lexus,GS 350,2
+Lexus,GS 450h,2
+Lexus,GX 470,2
+Jeep,Liberty,2
+Jeep,Grand Cherokee SRT,2
+Suzuki,Kizashi,2
+Lexus,IS,2
+Jeep,Commander,2
+Suzuki,XL7,2
