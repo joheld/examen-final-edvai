@@ -10,14 +10,17 @@ select * from aeropuertos_arg.aeropuerto_detalles_tabla;
 SELECT COUNT(*) as cantidad_de_vuelos
 from aeropuertos_arg.aeropuerto_tabla
  WHERE 
-    fecha BETWEEN '2021-12-01' AND '2022-01-31';
+    fecha BETWEEN '2021-12-01' AND '2022-01-31'
+   and tipo_de_movimiento = 'Despegue';
 
 
 --7
 
 select sum(pasajeros) as cantidad_pasajeros
 from aeropuertos_arg.aeropuerto_tabla
-WHERE fecha BETWEEN '2021-01-01' AND '2022-06-30';
+WHERE fecha BETWEEN '2021-01-01' AND '2022-06-30'
+AND aerolinea_nombre ='AEROLINEAS ARGENTINAS SA'
+;
 
 --8
 
@@ -47,6 +50,20 @@ WHERE
     fecha BETWEEN '2022-01-01' AND '2022-06-30'
 ORDER BY 
     fecha DESC;
+   
+   --
+   
+   select fecha, horautc, tipo_de_movimiento, aeropuerto,
+   origen_destino , pasajeros 
+from aeropuertos_arg.aeropuerto_tabla
+WHERE tipo_de_movimiento ='Despegue';
+
+
+   select fecha, horautc, tipo_de_movimiento, aeropuerto,
+   origen_destino , pasajeros 
+from aeropuertos_arg.aeropuerto_tabla
+WHERE tipo_de_movimiento ='Aterrizaje';
+   
    
   --9
 
